@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BlaBla : MonoBehaviour
 {
-    // Start is called before the first frame update
+    private GameObject test;
     void Start()
     {
         
